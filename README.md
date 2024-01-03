@@ -1,6 +1,4 @@
-Certainly! Here's a simplified and concise description of your Next.js web scraper without any external links or mentions:
 
----
 
 **Next.js Web Scraper for E-commerce Product Tracking**
 
